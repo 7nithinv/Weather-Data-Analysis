@@ -1,0 +1,15 @@
+1. Find all the unique windspeed values in the data
+2. Find the number of times when the 'Weather is exactly Clear'
+3. Find the number of times when the wind speed was exactly 4km/h
+4. Find out all the null values in the data
+5. Rename the column 'Weather' to 'Weather Condition' 
+6. What is the mean 'Visibility'?
+7. What is the standard deviation of the Pressure Column?
+8. What is the variance of relative humidity?
+9. Find all instances when snow was found?
+10. Find all the instances when wind speed is above 24 and visibility is 25
+11. What is the mean value of each column against each 'Weather Condition'?
+12. What is the minimum and maximum value of each column against each weather condition?
+13. Show all the records where weather condition is fog
+14. Find all the instances where the weather is clear or visibility is above 40.
+15. Find all instances when Weather is clear and relative humidity is greater than 50 or visibility is above 40
